@@ -1,4 +1,4 @@
-@TestWithKeithAndPhilani_HostAddress = http://localhost:5245
+@TestWithKeithAndPhilani_HostAddress = https://bursarymanagementapi.azurewebsites.net/
 
 GET {{TestWithKeithAndPhilani_HostAddress}}/weatherforecast/
 Accept: application/json
